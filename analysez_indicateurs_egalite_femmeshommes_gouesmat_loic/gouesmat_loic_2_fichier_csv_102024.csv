@@ -1,0 +1,257 @@
+"Sexe";"Service";"Niveau de satisfaction";"Durée hebdo";"Contrat";"Salaire base mensuel";"Augmentation";"Promotion";"ancienneté";"Date_naissance";"age";"tranche d'age";"Etat Civil";"congé maternité";"Enfants";"Work_accident";"%variable_moyen";"salaire horaire"
+"Hommes";"Marketing";34;35;"CDI";9999,38;"non";"non";17,8;"1984-06-26";40;"40 à 50 ans";"Célibataire";"non";0;"Non";27;65,98
+"Hommes";"Compta Finances";78;35;"CDI";9978,15;"non";"non";13;"1978-07-25";46;"40 à 50 ans";"Célibataire";"non";0;"Non";34;65,84
+"Hommes";"Marketing";45;35;"CDI";9940,23;"non";"non";22,7;"1984-05-15";40;"40 à 50 ans";"Marié";"non";0;"Non";24;65,59
+"Hommes";"RH";58;35;"CDI";9928,1;"oui";"oui";10;"1993-03-27";31;"30 à 40 ans";"Inconnu";"non";3;"Non";27;65,51
+"Femmes";"Consultant";60;35;"CDI";9873,5;"non";"non";22,5;"1984-02-18";40;"40 à 50 ans";"Marié";"non";3;"Non";13;65,15
+"Hommes";"Commercial";40;35;"CDI";9785,53;"non";"non";17,2;"1989-07-16";35;"30 à 40 ans";"Célibataire";"non";1;"Oui";28;64,57
+"Femmes";"Consultant";69;35;"CDI";9782,5;"non";"non";6,3;"1981-01-22";43;"40 à 50 ans";"Célibataire";"non";0;"Non";38;64,55
+"Femmes";"Commercial";13;35;"CDI";9777,95;"oui";"non";10,5;"1983-09-21";41;"40 à 50 ans";"Marié";"non";0;"Oui";4;64,52
+"Hommes";"Consultant";72;35;"CDI";9737;"oui";"oui";7,4;"1973-01-22";51;"+ 50 ans";"Marié";"non";1;"Non";12;64,25
+"Hommes";"RH";3;35;"CDI";9642,97;"non";"non";19;"1970-10-04";53;"+ 50 ans";"Célibataire";"non";0;"Non";17;63,63
+"Hommes";"RH";32;35;"CDI";9635,38;"oui";"non";6,4;"1983-03-10";41;"40 à 50 ans";"Célibataire";"non";2;"Oui";19;63,58
+"Hommes";"Informatique";77;35;"CDI";9573,2;"oui";"non";7,9;"1977-02-02";47;"40 à 50 ans";"Marié";"non";2;"Non";5;63,17
+"Hommes";"Commercial";48;35;"CDI";9573,2;"non";"non";18,7;"1977-12-31";46;"40 à 50 ans";"Inconnu";"non";1;"Oui";7;63,17
+"Femmes";"Commercial";15;35;"CDI";9555;"oui";"non";13,9;"1990-06-04";34;"30 à 40 ans";"Inconnu";"non";1;"Non";20;63,05
+"Femmes";"Commercial";81;35;"CDI";9497,37;"oui";"non";13,8;"1978-07-19";46;"40 à 50 ans";"Inconnu";"non";3;"Non";17;62,67
+"Hommes";"Commercial";52;35;"CDI";9488,27;"oui";"oui";14,9;"1971-04-23";53;"+ 50 ans";"Inconnu";"non";0;"Non";38;62,61
+"Hommes";"Consultant";1;35;"CDI";9447,32;"oui";"non";21,1;"1978-11-03";45;"40 à 50 ans";"Célibataire";"non";2;"Non";0;62,34
+"Femmes";"Consultant";9;35;"CDI";9426,08;"oui";"non";23,8;"1973-12-18";50;"+ 50 ans";"Marié";"non";1;"Non";24;62,2
+"Hommes";"Consultant";25;35;"CDI";9400,3;"oui";"non";20,1;"1969-10-23";54;"+ 50 ans";"Marié";"non";1;"Non";3;62,03
+"Femmes";"Informatique";74;35;"CDI";9366,93;"oui";"oui";9,1;"1979-02-26";45;"40 à 50 ans";"Inconnu";"non";1;"Non";8;61,81
+"Femmes";"Compta Finances";84;35;"CDI";9256,22;"oui";"non";7,4;"1968-02-03";56;"+ 50 ans";"Marié";"non";1;"Non";1;61,08
+"Femmes";"Marketing";69;35;"CDI";9218,3;"non";"non";6,7;"1982-08-11";42;"40 à 50 ans";"Célibataire";"non";1;"Non";4;60,83
+"Femmes";"Consultant";7;35;"CDI";9162,18;"oui";"non";9,1;"1972-10-17";51;"+ 50 ans";"Célibataire";"non";3;"Non";17;60,46
+"Hommes";"Informatique";8;35;"CDI";9096,97;"non";"non";5,8;"1966-07-19";58;"+ 50 ans";"Célibataire";"non";3;"Oui";21;60,03
+"Hommes";"Commercial";11;35;"CDI";9069,67;"non";"non";18,4;"1982-01-31";42;"40 à 50 ans";"Marié";"non";2;"Non";1;59,85
+"Hommes";"RH";1;35;"CDI";9039,33;"oui";"oui";10,7;"1995-06-30";29;"- 30 ans";"Marié";"non";0;"Non";20;59,65
+"Femmes";"RH";59;32;"CDI";8860,8;"oui";"non";11,9;"1981-08-19";43;"40 à 50 ans";"Célibataire";"non";3;"Non";19;63,95
+"Femmes";"Commercial";84;35;"CDI";8828,52;"non";"oui";10,6;"1992-02-28";32;"30 à 40 ans";"Célibataire";"non";3;"Oui";17;58,25
+"Femmes";"RH";62;35;"CDI";8746,62;"non";"oui";5,2;"1988-12-23";35;"30 à 40 ans";"Célibataire";"non";3;"Non";19;57,71
+"Hommes";"Informatique";93;35;"CDI";8716,28;"non";"non";8,3;"1992-02-13";32;"30 à 40 ans";"Marié";"non";1;"Non";20;57,51
+"Hommes";"Commercial";80;35;"CDI";8714,77;"oui";"non";15,6;"1969-01-05";55;"+ 50 ans";"Marié";"non";0;"Non";37;57,5
+"Hommes";"Marketing";89;35;"CDI";8696,57;"oui";"non";13,1;"1965-07-27";59;"+ 50 ans";"Marié";"non";3;"Non";34;57,38
+"Hommes";"Compta Finances";26;35;"CDI";8696,57;"non";"non";8,7;"1965-02-19";59;"+ 50 ans";"Inconnu";"non";3;"Non";37;57,38
+"Femmes";"Compta Finances";25;35;"CDI";8655,62;"oui";"non";15,8;"1981-10-19";42;"40 à 50 ans";"Marié";"non";0;"Non";26;57,11
+"Femmes";"Commercial";44;35;"CDI";8629,83;"non";"non";19,4;"1977-08-18";47;"40 à 50 ans";"Célibataire";"non";0;"Non";3;56,94
+"Hommes";"RH";87;35;"CDI";8563,1;"non";"non";21,5;"1982-02-10";42;"40 à 50 ans";"Marié";"non";2;"Non";7;56,5
+"Hommes";"Informatique";35;35;"CDI";8458,45;"non";"non";15,2;"1987-09-12";37;"30 à 40 ans";"Célibataire";"non";2;"Non";1;55,81
+"Hommes";"Commercial";44;35;"CDI";8428,12;"oui";"non";20;"1973-04-04";51;"+ 50 ans";"Célibataire";"non";2;"Oui";18;55,61
+"Femmes";"Compta Finances";96;35;"CDI";8422,05;"non";"oui";11,7;"1971-09-23";53;"+ 50 ans";"Inconnu";"non";0;"Non";38;55,57
+"Hommes";"Commercial";14;35;"CDI";8337,12;"non";"oui";6,3;"1990-07-07";34;"30 à 40 ans";"Inconnu";"non";0;"Oui";16;55,01
+"Femmes";"Compta Finances";42;35;"CDI";8332,57;"non";"non";5,2;"1986-06-26";38;"30 à 40 ans";"Inconnu";"non";3;"Non";12;54,98
+"Femmes";"Compta Finances";60;35;"CDI";8328,02;"oui";"non";10,2;"1989-10-09";34;"30 à 40 ans";"Célibataire";"non";1;"Non";14;54,95
+"Hommes";"RH";78;35;"CDI";8277,97;"non";"non";20,4;"1987-04-28";37;"30 à 40 ans";"Marié";"non";0;"Non";10;54,62
+"Femmes";"Compta Finances";32;35;"CDI";8218,82;"non";"non";16,3;"1961-03-03";63;"+ 50 ans";"Célibataire";"non";2;"Non";14;54,23
+"Femmes";"Commercial";54;35;"CDI";8126,3;"oui";"non";18,2;"1978-04-29";46;"40 à 50 ans";"Inconnu";"non";1;"Oui";36;53,62
+"Femmes";"RH";69;35;"CDI";8108,1;"non";"non";11,7;"1991-10-08";32;"30 à 40 ans";"Inconnu";"non";1;"Non";38;53,5
+"Hommes";"Compta Finances";70;35;"CDI";8073,22;"oui";"oui";15,7;"1976-01-11";48;"40 à 50 ans";"Inconnu";"non";3;"Non";38;53,27
+"Femmes";"Marketing";75;35;"CDI";8056,53;"non";"non";21,8;"1976-05-14";48;"40 à 50 ans";"Inconnu";"non";1;"Non";14;53,16
+"Femmes";"Compta Finances";32;35;"CDI";8056,53;"non";"oui";10,3;"1966-01-26";58;"+ 50 ans";"Inconnu";"non";1;"Non";13;53,16
+"Femmes";"Commercial";78;35;"CDI";7942,78;"oui";"non";10,8;"1979-04-10";45;"40 à 50 ans";"Célibataire";"non";3;"Non";38;52,41
+"Hommes";"Commercial";42;35;"CDI";7927,62;"oui";"non";10;"1979-05-03";45;"40 à 50 ans";"Célibataire";"non";2;"Oui";32;52,31
+"Femmes";"Compta Finances";65;35;"CDI";7898,8;"non";"non";23;"1964-02-26";60;"+ 50 ans";"Marié";"non";1;"Oui";35;52,12
+"Femmes";"Compta Finances";53;35;"CDI";7889,7;"non";"non";16,5;"1991-09-27";32;"30 à 40 ans";"Célibataire";"non";0;"Non";27;52,06
+"Femmes";"RH";63;35;"CDI";7877,57;"oui";"non";22,2;"1979-04-19";45;"40 à 50 ans";"Inconnu";"non";3;"Non";36;51,98
+"Hommes";"Compta Finances";96;35;"CDI";7753,2;"oui";"non";15,2;"1981-06-26";43;"40 à 50 ans";"Inconnu";"non";2;"Non";21;51,16
+"Hommes";"Commercial";31;35;"CDI";7713,77;"oui";"non";14,3;"1971-06-24";53;"+ 50 ans";"Marié";"non";3;"Oui";23;50,9
+"Hommes";"RH";86;35;"CDI";7710,73;"non";"non";7,5;"1989-02-15";35;"30 à 40 ans";"Marié";"non";2;"Non";27;50,88
+"Femmes";"RH";47;35;"CDI";7687,98;"non";"non";17,3;"1980-10-04";43;"40 à 50 ans";"Marié";"non";0;"Non";9;50,73
+"Femmes";"Consultant";77;35;"CDI";7672,82;"oui";"oui";3,8;"1983-12-05";40;"40 à 50 ans";"Marié";"non";3;"Non";37;50,63
+"Hommes";"Informatique";54;35;"CDI";7654,62;"oui";"non";23,3;"1982-11-04";41;"40 à 50 ans";"Marié";"non";3;"Non";5;50,51
+"Femmes";"RH";84;35;"CDI";7637,93;"oui";"non";8,6;"1974-10-06";49;"40 à 50 ans";"Inconnu";"non";1;"Non";21;50,4
+"Hommes";"Marketing";59;35;"CDI";7637,93;"non";"non";13,8;"1988-09-09";36;"30 à 40 ans";"Marié";"non";3;"Non";27;50,4
+"Femmes";"Compta Finances";55;35;"CDI";7601,53;"oui";"oui";12,5;"1982-10-16";41;"40 à 50 ans";"Inconnu";"non";0;"Non";19;50,16
+"Femmes";"Commercial";77;35;"CDI";7496,88;"oui";"non";21,9;"1983-04-13";41;"40 à 50 ans";"Marié";"non";0;"Non";6;49,47
+"Femmes";"Compta Finances";70;35;"CDI";7377,07;"oui";"non";6;"1965-08-10";59;"+ 50 ans";"Inconnu";"non";1;"Non";17;48,68
+"Hommes";"Marketing";17;28;"CDI";7358,87;"oui";"non";9,9;"1995-02-06";29;"- 30 ans";"Célibataire";"non";2;"Non";31;60,7
+"Femmes";"Consultant";24;35;"CDI";7308,82;"non";"non";20,2;"1987-01-19";37;"30 à 40 ans";"Inconnu";"non";3;"Non";12;48,23
+"Femmes";"Consultant";34;35;"CDI";7304,27;"oui";"non";7,9;"1987-04-26";37;"30 à 40 ans";"Marié";"non";0;"Non";17;48,2
+"Hommes";"Consultant";5;28;"CDI";7269,08;"oui";"oui";9,2;"1975-06-19";49;"40 à 50 ans";"Marié";"non";2;"Non";7;59,96
+"Hommes";"Marketing";64;35;"CDI";7264,83;"non";"non";15,6;"1968-01-26";56;"+ 50 ans";"Célibataire";"non";2;"Non";31;47,94
+"Hommes";"RH";84;35;"CDI";7263,32;"oui";"oui";12,7;"1970-11-22";53;"+ 50 ans";"Marié";"non";3;"Non";30;47,93
+"Hommes";"Compta Finances";66;35;"CDI";7185,97;"oui";"non";5,5;"1964-07-17";60;"+ 50 ans";"Inconnu";"non";2;"Non";7;47,42
+"Hommes";"Marketing";54;35;"CDI";7184,45;"oui";"oui";24,1;"1982-05-13";42;"40 à 50 ans";"Inconnu";"non";0;"Non";37;47,41
+"Hommes";"Consultant";89;35;"CDI";7178,38;"oui";"non";6,5;"1991-10-17";32;"30 à 40 ans";"Célibataire";"non";2;"Non";38;47,37
+"Femmes";"RH";6;35;"CDI";7157,15;"non";"non";3,7;"1986-10-18";37;"30 à 40 ans";"Célibataire";"non";0;"Non";3;47,23
+"Femmes";"RH";42;35;"CDI";7148,05;"oui";"non";7,9;"1989-07-20";35;"30 à 40 ans";"Inconnu";"oui";1;"Oui";21;47,17
+"Hommes";"Commercial";39;35;"CDI";7098;"oui";"non";23,2;"1976-02-26";48;"40 à 50 ans";"Célibataire";"non";1;"Oui";1;46,84
+"Hommes";"Informatique";31;35;"CDI";7081,32;"non";"non";20;"1971-04-19";53;"+ 50 ans";"Marié";"non";0;"Non";26;46,73
+"Hommes";"Consultant";99;35;"CDI";6973,63;"non";"oui";19,1;"1973-03-21";51;"+ 50 ans";"Marié";"non";0;"Non";31;46,02
+"Femmes";"Commercial";21;35;"CDI";6902,35;"non";"oui";17,3;"1989-10-22";34;"30 à 40 ans";"Marié";"non";3;"Non";17;45,55
+"Hommes";"Marketing";1;24;"CDI";6842,16;"oui";"non";23,9;"1967-11-30";56;"+ 50 ans";"Célibataire";"non";1;"Non";21;65,84
+"Femmes";"Commercial";41;35;"CDI";6838,65;"oui";"non";3;"1993-09-19";31;"30 à 40 ans";"Célibataire";"oui";3;"Oui";5;45,12
+"Femmes";"Commercial";47;35;"CDI";6818,93;"oui";"non";24,3;"1978-11-03";45;"40 à 50 ans";"Marié";"non";2;"Non";14;44,99
+"Femmes";"Compta Finances";6;32;"CDI";6743,36;"non";"non";22,7;"1982-09-22";42;"40 à 50 ans";"Marié";"non";3;"Non";4;48,67
+"Femmes";"Consultant";63;35;"CDI";6591,43;"non";"non";20,2;"1965-07-05";59;"+ 50 ans";"Célibataire";"non";1;"Oui";19;43,49
+"Femmes";"Marketing";67;35;"CDI";6583,85;"oui";"non";12,6;"1966-12-07";57;"+ 50 ans";"Inconnu";"non";2;"Non";13;43,44
+"Hommes";"Informatique";4;35;"CDI";6526,22;"non";"oui";22,8;"1965-12-14";58;"+ 50 ans";"Inconnu";"non";1;"Non";36;43,06
+"Hommes";"Informatique";30;35;"CDI";6494,37;"non";"non";6;"1985-04-24";39;"30 à 40 ans";"Inconnu";"non";0;"Oui";1;42,85
+"Femmes";"Consultant";72;35;"CDI";6413,98;"oui";"non";7,2;"1980-04-04";44;"40 à 50 ans";"Inconnu";"non";3;"Non";24;42,32
+"Hommes";"Consultant";80;35;"CDI";6409,43;"non";"non";7,1;"1971-05-31";53;"+ 50 ans";"Inconnu";"non";2;"Non";21;42,29
+"Hommes";"Consultant";68;35;"CDI";6398,82;"oui";"non";7;"1976-01-15";48;"40 à 50 ans";"Inconnu";"non";0;"Non";11;42,22
+"Femmes";"Informatique";4;35;"CDI";6356,35;"oui";"non";4,2;"1990-02-02";34;"30 à 40 ans";"Marié";"non";1;"Non";26;41,94
+"Femmes";"Consultant";39;35;"CDI";6301,75;"non";"non";9,7;"1966-11-15";57;"+ 50 ans";"Inconnu";"non";1;"Non";34;41,58
+"Femmes";"Commercial";3;35;"CDI";6212,27;"oui";"non";4,6;"1979-05-20";45;"40 à 50 ans";"Marié";"non";2;"Non";5;40,99
+"Hommes";"Commercial";56;35;"CDI";6195,58;"non";"oui";13,1;"1978-03-23";46;"40 à 50 ans";"Célibataire";"non";1;"Non";23;40,88
+"Hommes";"Informatique";57;24;"CDI";6178,64;"non";"non";23,3;"1975-12-06";48;"40 à 50 ans";"Inconnu";"non";2;"Non";17;59,46
+"Hommes";"RH";29;35;"CDI";6175,87;"non";"non";9,7;"1995-05-23";29;"- 30 ans";"Célibataire";"non";0;"Non";38;40,75
+"Femmes";"Commercial";38;35;"CDI";6163,73;"oui";"oui";23,9;"1976-11-19";47;"40 à 50 ans";"Célibataire";"non";2;"Non";16;40,67
+"Femmes";"Compta Finances";94;35;"CDI";6127,33;"oui";"oui";14,3;"1975-05-17";49;"40 à 50 ans";"Marié";"non";3;"Non";0;40,43
+"Hommes";"Commercial";7;35;"CDI";6121,27;"non";"non";20,5;"1986-11-01";37;"30 à 40 ans";"Inconnu";"non";0;"Oui";32;40,39
+"Hommes";"Consultant";36;35;"CDI";6043,92;"oui";"non";16,9;"1981-07-02";43;"40 à 50 ans";"Célibataire";"non";2;"Non";3;39,88
+"Hommes";"Commercial";74;35;"CDI";6031,78;"oui";"non";19,2;"1979-10-08";44;"40 à 50 ans";"Célibataire";"non";2;"Oui";39;39,8
+"Hommes";"Marketing";70;35;"CDI";6002,97;"oui";"non";22,8;"1977-10-23";46;"40 à 50 ans";"Marié";"non";1;"Oui";2;39,61
+"Hommes";"Commercial";17;35;"CDI";5984,77;"non";"non";24,9;"1978-09-22";46;"40 à 50 ans";"Célibataire";"non";3;"Non";6;39,49
+"Femmes";"Marketing";1;24;"CDI";5951,92;"oui";"non";8,2;"1974-11-27";49;"40 à 50 ans";"Inconnu";"non";0;"Non";32;57,27
+"Hommes";"Commercial";41;35;"CDI";5949,88;"oui";"non";16,2;"1992-09-10";32;"30 à 40 ans";"Inconnu";"non";3;"Non";17;39,26
+"Hommes";"Marketing";37;35;"CDI";5930,17;"non";"non";5,9;"1981-09-24";43;"40 à 50 ans";"Marié";"non";3;"Non";33;39,13
+"Femmes";"Commercial";15;24;"CDI";5895,76;"oui";"non";22,4;"1973-02-04";51;"+ 50 ans";"Inconnu";"non";3;"Non";23;56,73
+"Hommes";"Consultant";94;35;"CDI";5810,35;"oui";"non";5,8;"1986-03-24";38;"30 à 40 ans";"Inconnu";"non";1;"Non";36;38,34
+"Hommes";"Commercial";15;35;"CDI";5805,8;"non";"non";21,1;"1987-04-28";37;"30 à 40 ans";"Marié";"non";3;"Non";37;38,31
+"Hommes";"Commercial";19;35;"CDI";5749,68;"non";"non";13,8;"1971-02-15";53;"+ 50 ans";"Marié";"non";0;"Non";17;37,94
+"Femmes";"Consultant";51;35;"CDI";5739,07;"oui";"oui";24,7;"1971-09-02";53;"+ 50 ans";"Inconnu";"non";1;"Non";6;37,87
+"Hommes";"Compta Finances";100;24;"CDI";5724,16;"oui";"non";18,6;"1989-07-15";35;"30 à 40 ans";"Célibataire";"non";3;"Non";15;55,08
+"Femmes";"Consultant";50;35;"CDI";5585,88;"oui";"non";15,7;"1998-08-14";26;"- 30 ans";"Marié";"non";1;"Non";17;36,86
+"Femmes";"Commercial";86;35;"CDI";5581,33;"oui";"oui";23,9;"1985-11-13";38;"30 à 40 ans";"Inconnu";"non";1;"Oui";20;36,83
+"Femmes";"RH";7;35;"CDI";5522,18;"oui";"non";5,9;"1963-04-07";61;"+ 50 ans";"Inconnu";"non";2;"Non";9;36,44
+"Hommes";"Marketing";81;35;"CDI";5517,63;"oui";"oui";23,3;"1979-08-12";45;"40 à 50 ans";"Marié";"non";1;"Non";23;36,41
+"Hommes";"Commercial";47;35;"CDI";5464,55;"non";"non";10,5;"1976-11-07";47;"40 à 50 ans";"Inconnu";"non";0;"Non";34;36,06
+"Hommes";"Marketing";25;24;"CDI";5462,08;"non";"non";7,5;"1993-08-09";31;"30 à 40 ans";"Célibataire";"non";2;"Non";39;52,56
+"Hommes";"Consultant";8;35;"CDI";5455,45;"non";"non";19;"1973-01-09";51;"+ 50 ans";"Célibataire";"non";3;"Non";7;36
+"Hommes";"Consultant";51;24;"CDI";5448,56;"non";"non";7,3;"1971-11-12";52;"+ 50 ans";"Inconnu";"non";3;"Non";30;52,43
+"Femmes";"Consultant";51;35;"CDI";5388,72;"oui";"non";8,4;"1979-12-09";44;"40 à 50 ans";"Célibataire";"non";1;"Non";30;35,56
+"Hommes";"RH";80;35;"CDI";5359,9;"oui";"non";15,7;"1964-06-19";60;"+ 50 ans";"Inconnu";"non";1;"Non";4;35,37
+"Femmes";"RH";30;35;"CDI";5293,17;"non";"non";18,6;"1960-07-03";64;"+ 50 ans";"Marié";"non";3;"Non";39;34,93
+"Hommes";"Informatique";32;35;"CDI";5212,78;"non";"non";4,2;"1974-09-07";50;"+ 50 ans";"Inconnu";"non";0;"Non";11;34,4
+"Femmes";"RH";77;35;"CDI";5106,62;"non";"non";9,8;"1976-03-07";48;"40 à 50 ans";"Célibataire";"non";3;"Non";10;33,7
+"Hommes";"Consultant";62;28;"CDI";5097,21;"oui";"non";9,3;"1982-02-08";42;"40 à 50 ans";"Marié";"non";0;"Non";10;42,04
+"Femmes";"Commercial";31;35;"CDI";5092,97;"oui";"non";23,1;"1982-10-06";41;"40 à 50 ans";"Inconnu";"non";0;"Non";11;33,61
+"Femmes";"RH";20;35;"CDI";5076,28;"non";"non";4,4;"1971-10-25";52;"+ 50 ans";"Marié";"non";0;"Non";33;33,5
+"Femmes";"RH";55;35;"CDI";5067,18;"oui";"non";15,1;"1971-05-28";53;"+ 50 ans";"Célibataire";"non";0;"Non";39;33,44
+"Femmes";"RH";46;35;"CDI";5056,57;"oui";"non";16,2;"1992-03-19";32;"30 à 40 ans";"Inconnu";"oui";2;"Non";24;33,37
+"Hommes";"RH";95;35;"CDI";5035,33;"non";"non";24;"1968-11-25";55;"+ 50 ans";"Marié";"non";3;"Non";24;33,23
+"Hommes";"Compta Finances";52;35;"CDI";4988,32;"non";"non";22,2;"1975-02-27";49;"40 à 50 ans";"Inconnu";"non";0;"Non";8;32,92
+"Femmes";"Commercial";66;24;"CDI";4974,32;"non";"non";11,8;"1965-04-23";59;"+ 50 ans";"Célibataire";"non";2;"Oui";32;47,87
+"Femmes";"Commercial";1;24;"CDI";4882,8;"oui";"non";9,9;"1973-01-04";51;"+ 50 ans";"Marié";"non";0;"Non";17;46,99
+"Femmes";"RH";11;24;"CDI";4851,6;"non";"non";20,6;"1988-06-05";36;"30 à 40 ans";"Marié";"non";0;"Non";14;46,69
+"Hommes";"Consultant";33;24;"CDI";4795,44;"non";"oui";5,6;"1994-01-27";30;"30 à 40 ans";"Inconnu";"non";0;"Non";19;46,15
+"Femmes";"Marketing";73;35;"CDI";4763,85;"oui";"non";10,8;"1985-12-14";38;"30 à 40 ans";"Marié";"non";2;"Non";7;31,43
+"Femmes";"Consultant";46;35;"CDI";4712,28;"oui";"non";12;"1984-11-16";39;"30 à 40 ans";"Célibataire";"non";0;"Non";26;31,09
+"Femmes";"Informatique";32;35;"CDI";4663,75;"non";"non";24,4;"1968-12-18";55;"+ 50 ans";"Célibataire";"non";2;"Oui";5;30,77
+"Hommes";"Marketing";92;35;"CDI";4624,32;"non";"non";10,2;"1985-10-12";38;"30 à 40 ans";"Marié";"non";1;"Non";15;30,51
+"Femmes";"Marketing";51;35;"CDI";4563,65;"oui";"non";16,2;"1976-05-04";48;"40 à 50 ans";"Célibataire";"non";1;"Oui";38;30,11
+"Femmes";"Consultant";90;35;"CDI";4516,63;"oui";"non";17,4;"1980-12-02";43;"40 à 50 ans";"Inconnu";"non";1;"Non";34;29,8
+"Hommes";"RH";46;35;"CDI";4499,95;"oui";"non";5,8;"1973-07-14";51;"+ 50 ans";"Marié";"non";1;"Non";22;29,69
+"Hommes";"Consultant";2;35;"CDI";4449,9;"oui";"non";2,9;"1974-01-22";50;"+ 50 ans";"Marié";"non";3;"Non";33;29,36
+"Femmes";"Marketing";29;35;"CDI";4424,12;"non";"non";24,2;"1977-05-14";47;"40 à 50 ans";"Célibataire";"non";3;"Non";30;29,19
+"Hommes";"Compta Finances";28;35;"CDI";4421,08;"oui";"oui";14,2;"1973-02-12";51;"+ 50 ans";"Célibataire";"non";3;"Non";6;29,17
+"Hommes";"Consultant";39;35;"CDI";4296,72;"non";"non";10,8;"1963-07-01";61;"+ 50 ans";"Célibataire";"non";0;"Non";39;28,35
+"Femmes";"Consultant";82;35;"CDI";4289,13;"non";"oui";12,6;"1963-02-10";61;"+ 50 ans";"Marié";"non";0;"Non";12;28,3
+"Hommes";"Consultant";50;35;"CDI";4281,55;"oui";"non";8,3;"1988-06-13";36;"30 à 40 ans";"Marié";"non";3;"Non";13;28,25
+"Hommes";"Compta Finances";48;35;"CDI";4263,35;"non";"non";15,7;"1971-03-30";53;"+ 50 ans";"Célibataire";"non";0;"Non";31;28,13
+"Femmes";"Compta Finances";4;35;"CDI";4204,2;"oui";"non";9,3;"1974-09-07";50;"+ 50 ans";"Célibataire";"non";0;"Non";39;27,74
+"Femmes";"Compta Finances";14;35;"CDI";4198,13;"oui";"non";4,8;"1992-08-10";32;"30 à 40 ans";"Inconnu";"non";2;"Non";34;27,7
+"Hommes";"Informatique";41;24;"CDI";4165,2;"non";"non";22,6;"1968-03-26";56;"+ 50 ans";"Marié";"non";2;"Non";12;40,08
+"Femmes";"Commercial";60;35;"CDI";4152,63;"oui";"non";15,8;"1976-08-18";48;"40 à 50 ans";"Marié";"non";0;"Oui";7;27,4
+"Hommes";"Consultant";34;35;"CDI";4134,43;"non";"non";22,8;"1985-06-23";39;"30 à 40 ans";"Célibataire";"non";0;"Non";22;27,28
+"Femmes";"RH";35;24;"CDI";4117,36;"oui";"non";6,7;"1964-03-21";60;"+ 50 ans";"Marié";"non";1;"Non";8;39,62
+"Femmes";"Marketing";74;35;"CDI";4082,87;"non";"non";22,3;"1981-11-16";42;"40 à 50 ans";"Marié";"non";1;"Non";28;26,94
+"Hommes";"Marketing";37;35;"CDI";4022,2;"non";"non";15,6;"1968-03-14";56;"+ 50 ans";"Marié";"non";1;"Non";14;26,54
+"Femmes";"Compta Finances";93;35;"CDI";4013,1;"non";"non";8,1;"1988-11-04";35;"30 à 40 ans";"Inconnu";"non";0;"Non";12;26,48
+"Hommes";"Consultant";60;35;"CDI";4000,97;"oui";"non";24,2;"1983-02-05";41;"40 à 50 ans";"Inconnu";"non";0;"Non";40;26,4
+"Hommes";"Consultant";13;35;"CDI";3891,77;"non";"non";7,2;"1967-07-15";57;"+ 50 ans";"Inconnu";"non";2;"Non";32;25,68
+"Hommes";"RH";49;35;"CDI";3882,67;"non";"oui";11,8;"1993-03-18";31;"30 à 40 ans";"Marié";"non";1;"Non";1;25,62
+"Femmes";"Compta Finances";47;24;"CDI";3853,2;"oui";"oui";24,8;"1973-03-01";51;"+ 50 ans";"Marié";"non";1;"Non";9;37,08
+"Femmes";"RH";99;35;"CDI";3835,65;"non";"non";14,9;"1970-02-15";54;"+ 50 ans";"Célibataire";"non";3;"Non";26;25,31
+"Hommes";"RH";39;35;"CDI";3803,8;"non";"non";20,4;"1982-03-13";42;"40 à 50 ans";"Inconnu";"non";1;"Non";30;25,1
+"Femmes";"Commercial";61;35;"CDI";3800,77;"oui";"oui";24,7;"1967-04-02";57;"+ 50 ans";"Marié";"non";3;"Non";9;25,08
+"Femmes";"RH";29;35;"CDI";3797,73;"non";"non";23,9;"1973-10-25";50;"+ 50 ans";"Inconnu";"non";1;"Non";24;25,06
+"Femmes";"RH";62;35;"CDI";3705,22;"oui";"non";13;"1978-01-19";46;"40 à 50 ans";"Inconnu";"non";1;"Oui";29;24,45
+"Hommes";"Marketing";25;35;"CDD";3693,08;"non";"non";0,3;"1985-07-06";39;"30 à 40 ans";"Marié";"non";2;"Non";24;24,37
+"Hommes";"Commercial";95;35;"CDI";3677,92;"non";"oui";22,6;"1987-02-23";37;"30 à 40 ans";"Marié";"non";1;"Non";33;24,27
+"Hommes";"Marketing";69;35;"CDI";3655,17;"non";"non";19,3;"1960-12-07";63;"+ 50 ans";"Inconnu";"non";1;"Non";33;24,12
+"Femmes";"Marketing";96;35;"CDD";3640;"non";"non";1,1;"1979-03-25";45;"40 à 50 ans";"Inconnu";"non";1;"Non";6;24,02
+"Femmes";"Marketing";38;35;"CDI";3597,53;"oui";"non";16,8;"1985-06-19";39;"30 à 40 ans";"Inconnu";"non";2;"Non";32;23,74
+"Hommes";"Marketing";81;35;"CDI";3582,37;"oui";"non";22,4;"1978-04-22";46;"40 à 50 ans";"Marié";"non";2;"Non";30;23,64
+"Femmes";"Consultant";1;35;"CDI";3547,48;"oui";"non";11,7;"1997-11-16";26;"- 30 ans";"Célibataire";"oui";2;"Non";39;23,41
+"Hommes";"RH";92;35;"CDI";3508,05;"non";"oui";24;"1976-06-26";48;"40 à 50 ans";"Célibataire";"non";2;"Non";11;23,15
+"Hommes";"RH";65;35;"CDI";3486,82;"non";"non";3,1;"1994-05-08";30;"30 à 40 ans";"Célibataire";"non";2;"Non";19;23,01
+"Hommes";"Marketing";99;35;"CDI";3462,55;"oui";"non";20,6;"1984-08-04";40;"40 à 50 ans";"Inconnu";"non";0;"Oui";3;22,85
+"Femmes";"Consultant";25;35;"CDI";3459,52;"non";"non";10,3;"1969-09-02";55;"+ 50 ans";"Célibataire";"non";1;"Non";30;22,83
+"Hommes";"Compta Finances";44;35;"CDI";3436,77;"oui";"non";10,3;"1988-06-12";36;"30 à 40 ans";"Marié";"non";0;"Non";27;22,68
+"Hommes";"Compta Finances";56;35;"CDI";3383,68;"non";"non";17,2;"1976-12-16";47;"40 à 50 ans";"Célibataire";"non";2;"Non";23;22,33
+"Hommes";"RH";90;35;"CDI";3335,15;"oui";"non";7,5;"1970-09-30";53;"+ 50 ans";"Marié";"non";3;"Non";28;22,01
+"Femmes";"Commercial";42;35;"CDI";3260,83;"oui";"non";17;"1989-02-25";35;"30 à 40 ans";"Marié";"non";1;"Non";30;21,52
+"Femmes";"Marketing";25;35;"CDI";3256,28;"non";"non";8,8;"1971-03-08";53;"+ 50 ans";"Marié";"non";3;"Non";34;21,49
+"Hommes";"Consultant";36;35;"CDI";3232,02;"non";"non";24,4;"1983-10-18";40;"40 à 50 ans";"Marié";"non";1;"Non";35;21,33
+"Femmes";"RH";23;35;"CDI";3218,37;"oui";"non";19,3;"1974-11-02";49;"40 à 50 ans";"Marié";"non";3;"Non";27;21,24
+"Femmes";"Compta Finances";45;35;"CDD";3201,68;"non";"non";0,8;"1998-05-20";26;"- 30 ans";"Célibataire";"non";1;"Non";38;21,13
+"Femmes";"Commercial";58;35;"CDD";3185;"non";"non";1,7;"1979-12-31";44;"40 à 50 ans";"Marié";"non";3;"Non";3;21,02
+"Femmes";"Consultant";18;35;"CDD";3168,32;"non";"non";1,4;"1979-08-30";45;"40 à 50 ans";"Marié";"non";3;"Non";10;20,91
+"Femmes";"Commercial";67;35;"CDI";3165,28;"non";"non";6,8;"1966-10-22";57;"+ 50 ans";"Marié";"non";2;"Oui";0;20,89
+"Femmes";"RH";48;24;"CDI";3116,88;"non";"non";8,2;"1963-08-01";61;"+ 50 ans";"Inconnu";"non";3;"Non";37;29,99
+"Femmes";"Consultant";19;35;"CDI";3097,03;"non";"non";25;"1961-07-07";63;"+ 50 ans";"Célibataire";"non";1;"Non";13;20,44
+"Femmes";"RH";73;24;"CDI";3060,72;"non";"non";19,5;"1974-03-03";50;"+ 50 ans";"Marié";"non";2;"Non";6;29,45
+"Femmes";"Consultant";24;35;"CDD";3033,33;"non";"non";0,4;"1964-03-17";60;"+ 50 ans";"Marié";"non";2;"Non";8;20,02
+"Femmes";"RH";15;35;"CDI";3012,1;"oui";"non";16,2;"1970-06-29";54;"+ 50 ans";"Célibataire";"non";2;"Non";19;19,88
+"Hommes";"Marketing";22;35;"CDI";2998,45;"oui";"non";8,2;"1995-07-01";29;"- 30 ans";"Célibataire";"non";3;"Non";21;19,79
+"Femmes";"Commercial";97;35;"CDI";2928,68;"oui";"oui";5,3;"1970-07-12";54;"+ 50 ans";"Marié";"non";1;"Oui";33;19,32
+"Hommes";"Consultant";89;35;"CDI";2918,07;"oui";"non";21,2;"1977-09-13";47;"40 à 50 ans";"Célibataire";"non";0;"Non";39;19,25
+"Femmes";"Commercial";98;35;"CDI";2916,55;"oui";"non";10,2;"1986-04-11";38;"30 à 40 ans";"Célibataire";"non";2;"Non";35;19,24
+"Femmes";"Marketing";40;35;"CDI";2912;"non";"oui";4,2;"1968-08-22";56;"+ 50 ans";"Célibataire";"non";2;"Non";35;19,21
+"Femmes";"Commercial";76;35;"CDD";2881,67;"non";"non";1,9;"1972-01-26";52;"+ 50 ans";"Célibataire";"non";1;"Non";27;19,01
+"Hommes";"Informatique";81;35;"CDD";2848,3;"oui";"non";3,3;"1991-03-04";33;"30 à 40 ans";"Inconnu";"non";0;"Oui";15;18,79
+"Hommes";"Consultant";69;35;"CDI";2843,75;"non";"non";12,5;"1977-09-09";47;"40 à 50 ans";"Marié";"non";1;"Non";2;18,76
+"Hommes";"Consultant";24;35;"CDI";2834,65;"oui";"non";6,2;"1960-01-16";64;"+ 50 ans";"Célibataire";"non";3;"Non";15;18,7
+"Hommes";"Commercial";86;35;"CDI";2828,58;"non";"non";24,2;"1974-03-22";50;"+ 50 ans";"Célibataire";"non";3;"Non";21;18,66
+"Hommes";"Consultant";9;28;"CDI";2813,72;"oui";"non";13,3;"1970-03-13";54;"+ 50 ans";"Célibataire";"non";3;"Non";8;23,21
+"Hommes";"Consultant";66;35;"CDI";2777,02;"oui";"non";23,5;"1967-10-15";56;"+ 50 ans";"Inconnu";"non";1;"Non";10;18,32
+"Hommes";"Compta Finances";89;35;"CDI";2769,43;"non";"non";18,9;"1987-03-09";37;"30 à 40 ans";"Inconnu";"non";2;"Oui";33;18,27
+"Hommes";"RH";88;35;"CDI";2767,92;"oui";"non";9,2;"1959-07-16";65;"+ 50 ans";"Inconnu";"non";3;"Non";6;18,26
+"Hommes";"RH";47;24;"CDI";2735,2;"non";"non";21,2;"1968-08-09";56;"+ 50 ans";"Célibataire";"non";0;"Non";27;26,32
+"Femmes";"Consultant";3;35;"CDI";2731,52;"oui";"non";16,2;"1976-08-10";48;"40 à 50 ans";"Marié";"non";2;"Non";4;18,02
+"Hommes";"Consultant";60;35;"CDI";2675,4;"oui";"non";3,4;"1971-03-04";53;"+ 50 ans";"Inconnu";"non";0;"Non";20;17,65
+"Hommes";"Compta Finances";70;35;"CDI";2604,12;"oui";"non";20,5;"1964-07-02";60;"+ 50 ans";"Marié";"non";0;"Non";32;17,18
+"Hommes";"Consultant";68;35;"CDI";2561,65;"non";"non";17,4;"1989-06-19";35;"30 à 40 ans";"Marié";"non";0;"Non";13;16,9
+"Hommes";"Consultant";59;35;"CDD";2558,62;"non";"non";1,8;"1987-03-27";37;"30 à 40 ans";"Marié";"non";2;"Oui";22;16,88
+"Hommes";"Commercial";79;35;"CDI";2511,6;"non";"non";9,2;"1987-01-06";37;"30 à 40 ans";"Marié";"non";2;"Oui";21;16,57
+"Femmes";"RH";98;24;"CDI";2507,44;"oui";"oui";16,2;"1977-11-06";46;"40 à 50 ans";"Inconnu";"non";2;"Non";18;24,13
+"Femmes";"Consultant";6;32;"CDD";2496;"non";"non";1,3;"1975-10-08";48;"40 à 50 ans";"Célibataire";"non";0;"Oui";21;18,01
+"Femmes";"Marketing";70;35;"CDD";2426,67;"non";"non";0,6;"1975-01-03";49;"40 à 50 ans";"Marié";"non";1;"Oui";21;16,01
+"Hommes";"Commercial";62;35;"CDI";2396,33;"non";"non";21,6;"1976-08-03";48;"40 à 50 ans";"Marié";"non";2;"Oui";11;15,81
+"Femmes";"Commercial";52;35;"CDI";2369,03;"non";"non";12,8;"1989-07-27";35;"30 à 40 ans";"Inconnu";"non";1;"Non";20;15,63
+"Hommes";"Consultant";100;32;"CDD";2357,33;"non";"non";1,2;"1974-11-28";49;"40 à 50 ans";"Célibataire";"non";1;"Non";12;17,01
+"Femmes";"Commercial";63;35;"CDI";2309,88;"non";"non";8,2;"1972-05-15";52;"+ 50 ans";"Célibataire";"non";3;"Non";23;15,24
+"Femmes";"Consultant";81;35;"CDD";2226,47;"non";"non";1,1;"1992-03-03";32;"30 à 40 ans";"Inconnu";"non";3;"Non";2;14,69
+"Femmes";"Consultant";60;35;"CDI";2132,43;"oui";"oui";3,2;"1978-08-15";46;"40 à 50 ans";"Célibataire";"non";3;"Non";18;14,07
+"Femmes";"Compta Finances";84;35;"CDD";2123,33;"non";"non";1,8;"1967-12-26";56;"+ 50 ans";"Inconnu";"non";1;"Non";39;14,01
+"Femmes";"Compta Finances";40;35;"CDI";2079,35;"oui";"oui";13,7;"1976-08-05";48;"40 à 50 ans";"Marié";"non";0;"Oui";7;13,72
+"Femmes";"Consultant";59;35;"CDI";2073,28;"non";"non";21,1;"1982-03-20";42;"40 à 50 ans";"Célibataire";"non";2;"Non";28;13,68
+"Femmes";"Commercial";58;35;"CDI";2070,25;"non";"non";3,8;"1966-07-26";58;"+ 50 ans";"Inconnu";"non";1;"Non";34;13,66
+"Femmes";"Consultant";95;35;"CDI";2070,25;"oui";"non";9,3;"1999-01-30";25;"- 30 ans";"Inconnu";"oui";2;"Non";24;13,66
+"Hommes";"Consultant";37;24;"CDI";2055,04;"non";"non";13,2;"1964-09-14";60;"+ 50 ans";"Inconnu";"non";2;"Non";12;19,78
+"Femmes";"Compta Finances";12;35;"CDI";2052,05;"non";"non";5,3;"1995-04-23";29;"- 30 ans";"Célibataire";"non";0;"Non";13;13,54
+"Femmes";"Consultant";92;35;"CDI";2027,78;"non";"non";6,6;"1988-05-14";36;"30 à 40 ans";"Célibataire";"non";1;"Non";19;13,38
+"Hommes";"Consultant";42;35;"CDI";2024,75;"oui";"non";14,2;"1979-04-21";45;"40 à 50 ans";"Célibataire";"non";0;"Non";4;13,36
+"Femmes";"Compta Finances";44;35;"CDI";2008,07;"oui";"non";3,5;"1997-05-06";27;"- 30 ans";"Inconnu";"oui";1;"Non";35;13,25
+"Hommes";"Marketing";19;35;"CDD";1989,87;"non";"non";1,4;"1988-11-25";35;"30 à 40 ans";"Inconnu";"non";0;"Non";5;13,13
+"Hommes";"Compta Finances";31;35;"CDI";1979,25;"oui";"non";5,5;"1984-09-11";40;"40 à 50 ans";"Célibataire";"non";2;"Non";6;13,06
+"Femmes";"Compta Finances";18;35;"CDD";1920,1;"oui";"non";1,1;"1993-07-22";31;"30 à 40 ans";"Marié";"oui";3;"Non";17;12,67
+"Hommes";"Consultant";45;35;"CDI";1873,08;"non";"non";12,2;"1977-02-18";47;"40 à 50 ans";"Inconnu";"non";1;"Non";27;12,36
+"Femmes";"Marketing";67;35;"CDI";1863,98;"oui";"non";2,5;"1991-05-28";33;"30 à 40 ans";"Célibataire";"oui";3;"Non";12;12,3
+"Hommes";"Consultant";15;28;"CDI";1851,55;"non";"non";23,7;"1980-03-31";44;"40 à 50 ans";"Célibataire";"non";0;"Non";19;15,27
+"Hommes";"Compta Finances";15;35;"CDI";1835,17;"non";"non";19;"1987-10-06";36;"30 à 40 ans";"Inconnu";"non";1;"Non";6;12,11
+"Hommes";"Compta Finances";17;35;"CDI";1833,65;"non";"oui";8,2;"1970-02-08";54;"+ 50 ans";"Marié";"non";3;"Non";8;12,1
+"Hommes";"Consultant";81;35;"CDI";1803,32;"oui";"non";4,4;"1992-10-29";31;"30 à 40 ans";"Célibataire";"non";3;"Non";8;11,9
+"Femmes";"Consultant";47;35;"CDI";1774,5;"oui";"non";5,5;"1976-03-31";48;"40 à 50 ans";"Inconnu";"non";2;"Non";16;11,71
+"Hommes";"Compta Finances";44;35;"CDI";1772,98;"oui";"oui";16,4;"1973-11-19";50;"+ 50 ans";"Inconnu";"non";3;"Non";20;11,7
+"Hommes";"Consultant";87;24;"CDI";1709,76;"oui";"oui";10,3;"1974-10-12";49;"40 à 50 ans";"Marié";"non";0;"Non";10;16,45
+"Femmes";"Consultant";87;35;"CDI";1703,22;"oui";"non";5,7;"1977-08-28";47;"40 à 50 ans";"Inconnu";"non";3;"Non";39;11,24
+"Hommes";"Consultant";98;35;"CDI";1697,15;"oui";"non";21,7;"1971-10-25";52;"+ 50 ans";"Marié";"non";3;"Non";17;11,2
+"Hommes";"Marketing";32;35;"CDI";1669,85;"oui";"non";12,4;"1997-04-05";27;"- 30 ans";"Marié";"non";0;"Non";22;11,02
+"Hommes";"Consultant";69;35;"CDI";1651,65;"non";"non";17,1;"1984-07-20";40;"40 à 50 ans";"Inconnu";"non";0;"Non";18;10,9
+"Femmes";"Marketing";40;35;"CDI";1598,57;"non";"oui";14;"1991-12-16";32;"30 à 40 ans";"Marié";"non";1;"Non";18;10,55
+"Hommes";"Commercial";62;35;"CDI";1590,98;"oui";"oui";14,9;"1979-02-20";45;"40 à 50 ans";"Célibataire";"non";2;"Non";30;10,5
+"Hommes";"Consultant";30;24;"CDI";1110,72;"oui";"non";6,3;"1974-12-09";49;"40 à 50 ans";"Inconnu";"non";0;"Non";14;10,69
+"Femmes";"Compta Finances";68;24;"CDI";1059,76;"non";"oui";11,9;"1990-02-10";34;"30 à 40 ans";"Marié";"non";1;"Non";1;10,2
